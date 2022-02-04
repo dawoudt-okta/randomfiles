@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;
+400&display=swap');
+ #widget-container #okta-sign-in {
+	 font-family: 'Lato', sans-serif;
+}
+ #widget-container #okta-sign-in h2 {
+	 color: blue;
+	 font-weight: bold;
+	 font-size: 30px;
+}
+ #widget-container #okta-sign-in .auth-org-logo {
+	 max-height: 300px;
+}
+ #widget-container #okta-sign-in input::placeholder {
+	 color: blue;
+}
+ #widget-container #okta-sign-in .button {
+	 background: red;
+	 border: 3px solid red;
+	 color: white;
+}
+ #widget-container #okta-sign-in .button:hover {
+	 background: white;
+	 color: red;
+}
+ 
